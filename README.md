@@ -2,7 +2,7 @@
 
 A simple and lightweight network scanner.
 
-Checks the status all IPs on the lan
+Checks the status of all IPs on the lan
 
 ## Usage:
 ```
