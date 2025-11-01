@@ -5,6 +5,7 @@ A simple and lightweight network scanner.
 Checks the status of all IPs on the lan
 
 ## Usage:
+Copy and paste the following line into powershell:
 ```
 irm https://raw.githubusercontent.com/MineFartS/Network-Scanner/refs/heads/main/run.ps1 | iex
 ```
